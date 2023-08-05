@@ -17,4 +17,4 @@ Py-CPFGenerator can be easily installed using `pip`, ensuring a smooth setup pro
 We welcome contributions from the open-source community to improve Py-CPFGenerator. If you encounter any issues, have feature suggestions, or want to submit improvements, feel free to create a pull request or open an issue on the GitHub repository.
 
 ## License:
-Py-CPFGenerator is released under the MIT License, allowing developers to use it freely in both personal and commercial projects.
+Py-CPFGenerator is released under the MIT License, allowing developers to use random generator it freely in both personal validate code.
