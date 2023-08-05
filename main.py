@@ -20,7 +20,7 @@ def generate_cpf():
 
     return ''.join(str(d) for d in cpf)
 
-# Gerar 10 CPFs válidos simulados
+# Gerar CPFs válidos simulados
 if __name__ == "__main__":
     for _ in range(2):
         cpf = generate_cpf()
